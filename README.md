@@ -4,6 +4,9 @@ An interactive 3D visualization of the Solar System built with Python and Matplo
 
 This project displays the eight planets orbiting the Sun using Keplerian elliptical orbits, rendered in three dimensions with orbital inclinations, planet spheres, Saturn’s rings, and a starfield background. The visualization is designed to be physically motivated while remaining visually clear.
 
+<img width="713" height="713" alt="solarsystempreview" src="https://github.com/user-attachments/assets/744eec19-3352-450d-a0e7-1da104a48332" />
+
+
 ---
 
 ## Features
